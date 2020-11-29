@@ -14,9 +14,11 @@ Build avaible [here](https://kolegaliterat.itch.io/plasticcatcher-gameoff2020)!
 **Credits:**
 
 1. Sounds -> Little Robot Sound Factory 
-2. Ship graphic -> Lowder2 Airlock -> RevealingFortune
-3. Glow Circle -> oglsdl Bottles -> djzk
-4. Code & game design -> Adrian "Literat" Jaworek
-5. Idea supporter -> Robert "Robson" Janicki
-6. All assets are available ​on https://opengameart.org
+2. Ship graphic -> Lowder2 
+3. Airlock -> RevealingFortune
+4. Glow Circle -> oglsdl 
+5. Bottles -> djzk
+6. Code & game design -> Adrian "Literat" Jaworek
+7. Idea supporter -> Robert "Robson" Janicki
+8. All assets are available ​on https://opengameart.org
 

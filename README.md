@@ -3,7 +3,7 @@
 
 For me it's cleaning ocen from plastic. So I created simple game where you catch them and recycle!
 
-Build avaible here!
+Build avaible [here](https://kolegaliterat.itch.io/plasticcatcher-gameoff2020)!
 
 **How to play?**
 

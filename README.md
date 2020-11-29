@@ -1,2 +1,22 @@
 # game-off-2020-moonshot-plastic-cather
-Scripts from game made for a game jam!
+**Moonshot?**
+
+For me it's cleaning ocen from plastic. So I created simple game where you catch them and recycle!
+
+Build avaible here!
+
+**How to play?**
+
+1. Your goal is to recycle as many bottles as you can
+2. Catch then in magnet and guide to recycler in a center of screen
+3. Press SPACE to stop ship
+
+**Credits:**
+
+1. Sounds -> Little Robot Sound Factory 
+2. Ship graphic -> Lowder2 Airlock -> RevealingFortune
+3. Glow Circle -> oglsdl Bottles -> djzk
+4. Code & game design -> Adrian "Literat" Jaworek
+5. Idea supporter -> Robert "Robson" Janicki
+6. All assets are available ​on https://opengameart.org
+
